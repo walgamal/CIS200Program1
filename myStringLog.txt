@@ -1,0 +1,37 @@
+Program Action - created myString instances 1 and 2
+Program Action - menu dispalyed and user asked for selection
+User Action - user selected menu option 15
+User Action - called for instruction
+Program action - Instructions displayed
+Program Action - user is asked if they would like to continue
+User Action - enters y for yes and anything else for no
+Program action - loops if yes, ends if no
+Program Action - menu dispalyed and user asked for selection
+User Action - user selected menu option 1
+User Action - called setString method
+User Action - chose to apply method to instance 1
+User Action - user set instance to "Wasim"
+Program Action - program updated instance to "Wasim"
+Program Action - method was applied to myString successfully
+Program Action - user is asked if they would like to continue
+User Action - enters y for yes and anything else for no
+Program action - loops if yes, ends if no
+Program Action - menu dispalyed and user asked for selection
+User Action - user selected menu option 2
+User Action - called getString method
+User Action - chose to apply method to instance 1
+Program Action - instance 1 string returned
+Program Action - method was applied to myString successfully
+Program Action - user is asked if they would like to continue
+User Action - enters y for yes and anything else for no
+Program action - loops if yes, ends if no
+Program Action - menu dispalyed and user asked for selection
+User Action - user selected menu option 2
+User Action - called getString method
+User Action - chose to apply method to instance 2
+Program Action - instance 2 string returned
+Program Action - method was applied to myString successfully
+Program Action - user is asked if they would like to continue
+User Action - enters y for yes and anything else for no
+Program action - loops if yes, ends if no
+Program action - Program ended!
